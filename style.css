@@ -1,0 +1,11 @@
+.profile__img {
+  width: 200px;
+  aspect-ratio: 1/ 1;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.profile__img img {
+  width: 300px;
+  transform: translate(-3em, 0em);
+}
